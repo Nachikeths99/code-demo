@@ -1,1 +1,1 @@
-AWS Code Commit demo app
+AWS Code build demo app
