@@ -6,9 +6,9 @@ body {
 }
 header {
     background-color: #007bff;
-    color: red;
+    color: orange;
     padding: 20px;
 }
 main {
-    margin: 20px;
+    margin: 30px;
 }
