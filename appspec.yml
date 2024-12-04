@@ -2,10 +2,10 @@ version: 0.0
 os: linux
 files:
   - source: /index.html
-    destination: /var/www/html/index.html
+    destination: /var/www/html/
   - source: /style.css
-    destination: /var/www/html/style.css
+    destination: /var/www/html/
   - source: /app.js
-    destination: /var/www/html/app.js
+    destination: /var/www/html/
   - source: /images/logo.jpg
-    destination: /var/www/html/images/logo.jpg
+    destination: /var/www/html/
