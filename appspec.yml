@@ -8,4 +8,4 @@ files:
   - source: /app.js
     destination: /var/www/html/
   - source: /images/logo.jpg
-    destination: /var/www/html/
+    destination: /var/www/html/images/
